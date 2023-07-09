@@ -1,5 +1,5 @@
 # magento-2-image-optimizer
-Image Optimizer extension optimize website images by reducing image size without losing image quality. Optimizing images contributes to faster page loading, improved user experience, and significant revenue growth.
+You can optimize website images by reducing image size without losing image quality with the Magento 2 Image Optimizer extension. Optimizing images results in faster page loading, improved user experience, and significant revenue growth.
 
 Please go to https://magehq.com/magento-2-image-optimizer.html buy extension
 
